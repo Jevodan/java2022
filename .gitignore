@@ -31,6 +31,7 @@ hs_err_pid*
 *.ear
 *.nar
 hs_err_pid*
+pom.xml
 
 ##############################
 ## Maven
