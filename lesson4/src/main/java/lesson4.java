@@ -87,8 +87,6 @@ public class lesson4 {
         int cooY = y;
         int currentPoints = -1;
         while (cooX >= 0 && cooY >= 0 && cooX < turns.length && cooY < turns.length) {
-            System.out.println(cooX);
-            System.out.println(cooY);
             if (turns[cooX][cooY] == symbol)
                 currentPoints++;
             cooX += line[0];
