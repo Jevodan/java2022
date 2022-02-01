@@ -30,6 +30,7 @@ hs_err_pid*
 *.war
 *.ear
 *.nar
+*.pom
 hs_err_pid*
 
 ##############################
