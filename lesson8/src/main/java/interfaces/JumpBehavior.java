@@ -1,2 +1,5 @@
-package interfaces;public interface JumpBehavior {
+package interfaces;
+
+public interface JumpBehavior {
+    public int jump();
 }
